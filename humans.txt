@@ -1,0 +1,13 @@
+/* humanstxt.org/
+The humans responsible & technology colophon */
+
+/* TEAM */
+    Harditya Rahmat Ramadhan -- Project Manager and Lead Developer -- @freeskys
+
+/* THANKS */
+    Mohammad Andy Nugroho -- @androvnugros
+	Moh. Nuruddin Ef. -- @uudshan
+
+/* TECHNOLOGY COLOPHON */
+    jQuery, 960 Grid CSS,
+    Underscore
